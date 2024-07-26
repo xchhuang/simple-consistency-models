@@ -3,7 +3,7 @@
 ## Introduction
 This is an unofficial but simple and single-file pytorch implementation of [consistency models](https://arxiv.org/abs/2303.01469), in **200 lines of code**.
 
-I started from an unofficial implementation from [cloneofsimo](https://github.com/cloneofsimo/consistency_models), but the results seemed not matching the original paper. So I am trying to change things to keep the code more consistent to the [official implementation](https://github.com/openai/consistency_models), but the results are still not satisfying.
+I started from an unofficial implementation from [cloneofsimo](https://github.com/cloneofsimo/consistency_models), but the results seemed not matching the original paper. So I am trying to change things (e.g. the sampling part) following the [official implementation](https://github.com/openai/consistency_models), but the results are still not satisfying.
 
 Free free to contact me if you find any issues or have any suggestions.
 
